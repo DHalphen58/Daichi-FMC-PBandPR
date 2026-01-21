@@ -1,0 +1,98 @@
+PB
+single = 19
+
+R' U' F R2 U2 R2 U' F2 D R2 U' F2 D' R F L B' L2 D R F' D F2 L' R' U' F
+(D B2 L)
+F' D2 B F' D //DR (8)
+(B$ U2 R2 B'$ U2 [B])
+[B' D2 {U2 B2}] //double slice (17)
+{R2 L2 D2 F2} //slice (19)
+$=w //finish (19)
+
+R' U' F R' B2 D' L' U' R2 F2 D' L2 F2 R2 D2 F2 U' L B2 F' D' R B' U' R' U' F
+(R2 F2 U')
+(R B' L2 D2 R2 F2 L B') //2c3 4e (11)
+(R2 U2 R$ U2 R F2 R'$ U2) //LS (19)
+$=w //fin (19)
+
+
+mean = 21.33
+
+22,21,21
+R' U' F D2 U2 B R2 U2 B2 U2 R2 B2 L2 D' B' U2 B L' B F2 L F' D U' R' U' F
+(U) L2 B' U'
+F' (L' F2 U2 L B) //2c3 4e (10)
+(R'$ D2 R$% U2 F2 U2 D2 L)
+U2 F2 R2% //LS (21)
+$=w %=M2 //fin (22)
+
+R' U' F D2 L2 U2 L2 B R2 B' R2 B D2 B' U2 R2 F' U' R' D' U' R D F' R' U' F
+(U2 D R)
+(D) //JZP (4)
+U' F2 U' F2 U' L2 B2 D' //4a1 4e (12)
+(B2 L2 B2$ L2 U2 % L2 F$) //LS (19)
+$=w %=S' //fin (21)
+
+R' U' F R U2 B2 D2 R U2 L U2 R2 F2 U2 B2 D B' D' R' U' R2 B R2 D R' U' F
+(U') L2 B R D
+(B U2 F' R') //2c3 4e (9)
+(F) R2 L2 D2 R2 B'$ D2 B$
+L2 [F2 U2 R2 B2] //LS (22)
+$=w, [B2 D2 L2 F2] //fin (21)
+
+22,19,23
+R' U' F L B2 L2 B2 D R2 U' L2 B2 F2 L' D2 B U' F' U2 F' D' L' U R' U' F
+(B2 F D)
+(L F' U2 B' L) //2c3 2e (8)
+(B' U2 B2 U2 B U2 L2 F)
+(R2 B2 L2 U2 R2 L2) //fin (22)
+
+R' U' F R' B2 D' L' U' R2 F2 D' L2 F2 R2 D2 F2 U' L B2 F' D' R B' U' R' U' F
+(R2 F2 U')
+(R B' L2 D2 R2 F2 L B') //2c3 4e (11)
+(R2 U2 R$ U2 R F2 R'$ U2) //LS (19)
+$=w //fin (19)
+
+R' U' F R' F L' F L2 D2 R2 D2 F U2 F' D2 F L2 R' D B2 U' F R' B' R' U' F
+(R D F)
+D2 R' D' R2 U' B2 D R //2c3 4e (11)
+D$ L2 U F2 U
+L2 U2$$$ L2 [D2] //double slice (20)
+[F B' R2 F B'] //slice (5-3/22)
+$=E //fin (23)
+
+
+PR
+single = 22
+
+R' U' F U' R2 D U2 B2 D2 R' F' R' U2 B R' F U2 R2 F U2 B' R' U' F
+U D2 R
+U’ F D’ B2 U B’ //4a1 2e (9)
+D@ R2 D F2 B2 U’
+B2 U2$ F2 B2 R2 B2 //Slice (21)
+@=E, $=E’  //Finish (1/22)
+
+mean = 24.33
+
+22,23,28 from Quiet by the Kings
+R' U' F U' R2 D U2 B2 D2 R' F' R' U2 B R' F U2 R2 F U2 B' R' U' F
+U D2 R
+U’ F D’ B2 U B’ //4a1 2e (9)
+D@ R2 D F2 B2 U’
+B2 U2$ F2 B2 R2 B2 //Slice (21)
+@=E, $=E’  //Finish (1/22)
+
+R' U' F U L B L2 F R2 F2 U2 R2 U2 F L B U F' L' R2 D R2 D' R' U' F
+L’ R’ U’ B’
+R (R2 D2 L2 U F2 U2 D’ L) //DR (13)
+U2% L2 U’ R2 F2 R2 F2 D
+B2 L2    //Slice (2/23)
+%=E2    //Finish (0/23)
+
+R' U' F U' B' U2 D2 L' B' D2 F L' U2 R L' F2 R U2 F' L2 D2 R' U' F
+(D R2 F)
+(L U’ R’ D2 L F2 R2 U)  //DR (11)
+(F2 B2 R^ D2 L2 F2 L’& F2 L’)
+(U2 [F2 U2 R2] D2)  //Double slice (25)
+([B2 D2 L2 F2 B2])  //Slice +5-3=27
+^=M’, &=M   //Finish (28)
