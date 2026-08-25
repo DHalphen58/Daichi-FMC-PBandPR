@@ -47,6 +47,28 @@ L2 U' R2 U L //2c3 4e (9)
 (B2 R2 U2 F2) //slice (21)+0
 
 
+21, 21, 20
+R' U' F B R2 U D R' B R2 U2 R L2 B2 U' R2 F2 D2 L2 D' F2 R2 U L2 R' U' F
+D B' U F'
+L' D' F2 D2 R2 D L //4c3 (11)
+(D L2 D2 F2 U' R2 L2 F2 D' R2) //slice (21)+0
+
+R' U' F R2 B2 R2 D2 U R2 D2 F2 U2 F' L' R' U' F L B D' L' D' U R' U' F
+L (U2 B R')
+(U) F' L2 F' U //2c3 4e (9)
+(F') B2 U2 F' D2 L2 B'
+L2 D2 R2 B2 U2 //fin (21)
+
+R' U' F L F2 D2 R2 B2 R2 F2 L' D2 U' R D' B' D2 U2 L U R2 F2 R' U' F
+(L' U' B)
+(R2 D L U2 F2 R U') //2c3 2e (10)
+(L') D2 L F2 L
+B2 L2 U2 B2 //slice (19)+1
+
+
+
+
+
 PR - single and mean (20/22.00)
 For the Love of FMC USA 2026
 24 - A1
